@@ -1,3 +1,20 @@
+ilia (0.18.0) jammy; urgency=medium
+
+  [ Jesse Hallett ]
+  * flake with packaging for ilia
+  * gobject-introspection is not necessary when using wrapGAppsHook3
+
+  [ Kyle Anderson ]
+  * Added debug instructions and timers
+  * Fix screenshot link in readme
+  * Uncrustify everything
+  * Default to using release build types
+  * Run uncrustify again
+  * Force remove sp_after_sparen
+  * Clean up leftover prints from debugging
+
+ -- Regolith Linux <regolith.linux@gmail.com>  Sun, 23 Nov 2025 18:49:51 +0000
+
 ilia (0.17.0) jammy; urgency=medium
 
   [ Kyle Anderson ]
